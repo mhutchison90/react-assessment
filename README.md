@@ -1,9 +1,9 @@
 # TO-DO Project!
 ### This Project Is Hosted at <a href="todo.mynextdev.com">ToDo.MyNextDev.com</a>
-Feel free to check out this project in its current state by forking and cloning this repo or just head over to <a href="todo.mynextdev.com">todo.MyNextDev.com</a>.
+Feel free to check out this project in its current state by forking and cloning this repo or just head over to <a href="todo.mynextdev.com" target="_blank">todo.MyNextDev.com</a>.
 ### See More About Michael
-* <a href="mynextdev.com"> Michael's Website</a>
-* <a href="https://www.linkedin.com/in/michaeljhutchison/"> Michael's Linkedin</a>
+<a href="mynextdev.com" target="_blank"> Michael's Website</a>
+<a href="https://www.linkedin.com/in/michaeljhutchison/" target="_blank">Michael's Linkedin</a>
 
 
 
