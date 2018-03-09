@@ -1,0 +1,52 @@
+.TaskTile{
+    display: flex;
+	flex-direction: column;
+	/* flex-wrap: nowrap; */
+	justify-content: space-around;
+	align-items: center;
+    /* align-content: stretch; */
+
+}
+.TaskTile-Container{
+    display: flex;
+	/* flex-direction: column; */
+	justify-content: space-between;
+    width: 60%;
+    height:100%;
+
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 2px 3px #d7d6d6;
+    margin: 5px;
+}
+#completed{
+    background-color: rgb(202, 198, 198);
+    /* height: 100%; */
+}
+
+#not-completed{
+
+}
+a{
+    color: black;
+    text-decoration: none;    
+    width: 80%;
+    text-align: left;
+}
+#delete{
+    width: 10%;
+    /* background-color: black; */
+}
+#complete{
+    /* width: 20%; */
+    /* background-color: black; */
+    margin-right: 10px;
+    cursor: pointer;
+}
+#complete:disabled{
+    cursor: not-allowed;
+}
+.action-buttons{
+    cursor: pointer;
+
+}

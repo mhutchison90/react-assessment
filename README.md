@@ -1,5 +1,13 @@
-# React Assessments
+# TO-DO Project!
+### This Project Is Hosted at <a href="todo.mynextdev.com">ToDo.MyNextDev.com</a>
+Feel free to check out this project in its current state by forking and cloning this repo or just head over to <a href="todo.mynextdev.com">todo.MyNextDev.com</a>.
+### See More About Michael
+* <a href="mynextdev.com"> Michael's Website</a>
+* <a href="https://www.linkedin.com/in/michaeljhutchison/"> Michael's Linkedin</a>
 
+
+
+# React Assessments
 <img src="https://github.com/DevMountain/react-assessment/blob/master/readme-assets/1-3.png" />
 
 In the following assessments, we will break down the process of building a to-do list. The to-do list will be capable of creating tasks, deleting tasks, updating tasks, and completing tasks. 
